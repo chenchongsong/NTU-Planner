@@ -1,11 +1,9 @@
+NTU-Planner is a project that helps NTU students sort out unclashed timetable on stars-planner
+receiving help from Zhihao Sun & Lua
+
 package requirement:
 
-BeautifulSoup
-Requests
-
-
-
-
+BeautifulSoup Requests etc.
 
 Usage of NTU-Planner Project:
  
