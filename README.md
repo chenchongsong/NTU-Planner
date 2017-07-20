@@ -1,4 +1,4 @@
-NTU-Planner is a project that helps NTU students sort out unclashed timetables on stars-planner
+NTU-Planner is a Python3 project that helps NTU students sort out unclashed timetables on stars-planner
 receiving help from Zhihao Sun & Lua
 
 package requirement:
